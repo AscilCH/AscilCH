@@ -5,7 +5,7 @@
 - 💞️ **I’m looking to collaborate on**: Exciting web development projects, AI tools, and innovative open-source initiatives.
 - 📫 **How to reach me**: [ascil.chtioui@gmail.com](mailto:ascil.chtioui@gmail.com)
 - 😄 **Pronouns**: He/Him
-- ⚡ **Fun fact**: I love creating meme generators and experimenting with AI to build creative and fun tools.
+- ⚡ **Fun fact**: I love experimenting with AI to build creative and fun tools.
 
 <!---
 AscilCH/AscilCH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
